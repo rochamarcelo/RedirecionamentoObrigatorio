@@ -1,2 +1,2 @@
-RedirecionamentosObrigatorio
+RedirecionamentoObrigatorio
 ============================
